@@ -39,7 +39,7 @@ public class ImageHelper {
     }
 
     public static void setImageFromFilePath(String imagePath, ImageView imageView) {
-        setImageFromFilePath(imagePath, imageView, 120, 160);
+        setImageFromFilePath(imagePath, imageView, 160, 160);
     }
 
 }
