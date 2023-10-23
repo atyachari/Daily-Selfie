@@ -20,3 +20,7 @@ jobs:
           pr-message: >
             Hi @contributor_name! Welcome to our community and thank you for opening your first Pull Request. 
             Someone will review it soon. Thank you for committing to making Daily Selfie better.
+          bot_token: ${{ secrets.BOT_ACCESS_TOKEN }}
+          is-oauth-token: true
+          issue-message-for-bot: 'Hello there, thanks for opening your first issue. We welcome you to the community!'
+          pr-message-for-bot: 'Hello there, thanks for opening your first Pull Request. Someone will review it soon.'
