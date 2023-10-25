@@ -41,4 +41,11 @@ public class SelfieRecord {
     public String toString() {
         return mName;
     }
+
+    public String getDisplayData() {
+        SimpleDateFormat format = new SimpleDateFormat("yyyyMMdd_HHmmss");
+        Date date = format.parse(mName, new ParsePosition(0));
+        return mPath + new SimpleDateFormat("dd MMM, yyyy HH:mm:ss").format(date);
+    }
+
 }
