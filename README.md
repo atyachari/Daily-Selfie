@@ -1,7 +1,9 @@
 # Daily-Selfie 📷
 > Never miss a moment with Daily-Selfie! This app reminds you to take pictures and displays all the items captured by your phone. Enjoy your memories!
 
-Features
+## Features
+##### Note
+Created & maintained for betterment of the Developer Community
 - Click the camera icon to capture a picture.
 - Auto alarm set up as default every two minutes.
 - Images are stored in the internal drive located in the Pictures directory.
