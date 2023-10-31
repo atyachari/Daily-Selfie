@@ -7,3 +7,4 @@ Features
 - Images are stored in the internal drive located in the Pictures directory
 - Tap any list item to view details about the picture
 - Hover on the image to see more info
+- Alarm can also be set manually
