@@ -1,8 +1,8 @@
-# Daily-Selfie
+# Daily-Selfie 📷
+> Never miss a moment with Daily-Selfie! This app reminds you to take pictures and displays all the items captured by your phone. Enjoy your memories!
 
-> For auto reminder of taking pictures and display all the items captured by your phone. Enjoy~
-
-- Click camera icon to capture picture
-- Auto alarm setup as default in every two minutes
-- Images are stored in internal drive which is located in Pictures directory
-- Tap any list item to view a detail about picture
+Features
+- Click the camera icon to capture a picture
+- Auto alarm set up as default every two minutes
+- Images are stored in the internal drive located in the Pictures directory
+- Tap any list item to view details about the picture
