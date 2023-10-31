@@ -6,3 +6,4 @@ Features
 - Auto alarm set up as default every two minutes
 - Images are stored in the internal drive located in the Pictures directory
 - Tap any list item to view details about the picture
+- Alarm can also be set manually
